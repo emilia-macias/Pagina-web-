@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 150px;
+    background-color: #000000;   
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.formula{
+
+    /* Rectangle 10 */
+
+position: absolute;
+width: 679.59px;
+height: 909px;
+left: 0px;
+top: 2415px;
+background: #B59E83;
+margin: 350px;
+
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.caja{
+
+    width: 100%;
+    padding: 20%;
+}
+
+
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+input[type="text"]
+input[type="password"]
